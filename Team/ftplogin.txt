@@ -1,0 +1,6 @@
+SFTP host: tommy.heliohost.org
+SFTP port: 1342
+SFTP protocol: SFTP
+SFTP logon type: Normal
+SFTP Username: dami@uniproj2.heliohost.us
+ftp password : Shd!X8KQ9gme
